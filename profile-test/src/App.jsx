@@ -1,7 +1,6 @@
 import "./App.css";
 import ProfilePage from "./components/ProfilePage";
-import avatarImage from "./assets/avatar.jpg";
-
+import avatarImage from "./assets/avatar (2).jpg";
 export default function App() {
   const user = {
     name: "Satayesh Esmaily",
